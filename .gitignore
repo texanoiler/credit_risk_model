@@ -1,0 +1,3 @@
+model/rf_model.joblib
+model/scaler.joblib
+model/xgb_model.joblib
