@@ -95,6 +95,7 @@ credit-risk-project/
 ├── requirements.txt
 └── README.md
 ```
+*Note*: Due to the model folder containing models larger than 25 MB, this was not added to the project repository.
 
 ## Conclusion
 This project displays an end-to-end data science workflow for default risk prediction, from data exploration and feature engineering to machine learning modeling and evaluation. By comparing multiple models and selecting the best model based on performance metrics, the project highlights how machine learning can be utilized in real-world financial applications to support better decision-making.
